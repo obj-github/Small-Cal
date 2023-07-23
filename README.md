@@ -193,8 +193,5 @@ lord-icon{
   }
   
   </script>
-
-<script type='text/javascript' src='//pl19839666.highrevenuegate.com/f7/a8/c7/f7a8c700ca95a573bbbc8f11e00f0248.js'>
-  </script>
 </body>
 </html>
